@@ -309,6 +309,10 @@ body {
   text-align: center;
   color: #5f5f5f;
   cursor: pointer;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
 }
 
 
